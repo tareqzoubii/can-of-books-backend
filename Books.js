@@ -1,6 +1,6 @@
 'use strict'
 
-const mongoose = require('mongoose')
+const mongoose = require('mongoose');
 
 // defining a schema! with valid keys --> making a structure!
 const bookSchema = new mongoose.Schema({
